@@ -1,0 +1,4 @@
+ipykernel
+tensorflow
+streamlitcd "D:\Project with simple RNN"
+& ".\rnnv\python.exe" -m streamlit run main.py
